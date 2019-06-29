@@ -1,6 +1,6 @@
 {
   "name": "@riku179/eslint-config-react-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "(4.0.1) Customized ESLint configuration used by Create React App",
   "repository": "https://github.com/riku179/create-react-app.git",
   "license": "MIT",
